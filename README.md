@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🎓 AI & Data Science student @ ESI Sidi Bel Abbès (Algeria)<br>🌍 Looking for an international PFE internship<br><br>🧠 Interests:<br>Reinforcement Learning (agents, simulations, environments)<br>NLP (chatbots, language models, knowledge extraction)<br>MLOps (ClearML, Hugging Face, Ray, experiment tracking)<br><br>⚡ Fun facts:<br><br>Black belt in karate 🥋 (focus, persistence & resilience)<br><br>Getting back into art 🎨 (Art Nouveau + atmospheric colors inspire my work)<br><br>Curious about languages: learning Italian + speak Kabyle & Darja<br><br>🚀 Currently:<br><br>Building my portfolio around RL + NLP mini-projects<br>Experimenting with end-to-end ML pipelines (training, deployment, monitoring)</p>
+<p align="left">🎓 AI & Data Science student graduate from ESI Sidi Bel Abbès (Algeria)<br>><br>🧠 Interests:<br>Reinforcement Learning (agents, simulations, environments)<br>NLP (chatbots, language models, knowledge extraction)<br>MLOps (ClearML, Hugging Face, Ray, experiment tracking)<br><br>⚡ Fun facts:<br><br>Black belt in karate 🥋 (focus, persistence & resilience)<br><br>Getting back into art 🎨 (Art Nouveau + atmospheric colors inspire my work)<br><br>Curious about languages: learning Italian + speak Kabyle & Darja<br><br>🚀 Currently:<br><br>Building my portfolio around RL + NLP mini-projects<br>Experimenting with end-to-end ML pipelines (training, deployment, monitoring)</p>
 
 ###
 
